@@ -1,5 +1,5 @@
        identification division.
-       program-id. task1.
+       program-id. task.
 
        environment division.
            input-output section.
